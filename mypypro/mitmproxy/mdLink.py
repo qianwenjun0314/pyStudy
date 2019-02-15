@@ -1,6 +1,5 @@
 from mitmproxy import ctx, http
 import json
-import mitmproxy.http
 
 class Modify:
             
@@ -13,7 +12,6 @@ class Modify:
                 flow.request.urlencoded_form = [
                     ("activityId", "20727"),("nick","name")
                 ]
-           
 
    
         # if flow.request.url.startswith("http://www.duiba.com.cn/autoLogin/autologin?uid=59725841&credits=31&appKey=4RjniQxgtG2cTVQEEz82g8kbgVvQ"):
