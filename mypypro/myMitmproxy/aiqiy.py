@@ -3,11 +3,8 @@ import json
 
 
 class Modify:
-    newUserOrderId = '9999'
-    orderId = '8888'
 
-    @staticmethod
-    def request(flow):
+    def request(self, flow):
         if flow.request.url.startswith("http://activity-1.m.duiba.com.cn/customActivity/bookcode/doJoin"):
             ctx.log.info("modify request form")
             if flow.request.urlencoded_form:
@@ -17,39 +14,11 @@ class Modify:
                     ("activityId", "20727"), ("nick", "name")
                 ]
 
-        if flow.request.url.startswith("https://activity.m.duiba.com.cn/customActivity/iqiyiYear/getJinli"):
-            flow.request.url = "https://activity.m.duiba.com.cn/customActivity/iqiyiYear/getShareCode"
-            ctx.log.info("修改链接")
-
-
-    @staticmethod
     def response(self, flow):
-
-        #财务榜
-        if flow.request.url.startswith("https://activity.m.duibatest.com.cn/aaw/yonghui/helpHome?111"):
-
-            response = json.loads(flow.response.get_text())
-            print(response)
-            response['data'] = '[]'
-
-        # 助力
-        if flow.request.url.startswith("https://activity.m.duibatest.com.cn/aaw/yonghui/help"):
-            response = json.loads(flow.response.get_text())
-            print(response)
-            self.newUserOrderId = response['data']['newUserOrderId']
-            ctx.log.info("newUserOrderId=" + self.newUserOrderId)
-            # response['data']['orderId'] = None
-
-
-        # if flow.request.url.startswith("https://activity.m.duibatest.com.cn/plugin/getOrderStatus" + self.prizeOrderNum):
-        #     flow.response.set_text('{"result":0,"lotteryCode":0,"success":true,"message":"处理中。。。"}')
-        #     ctx.log.info("replace ")
-
-
-        if flow.request.url.startswith("https://activity.m.duibatest.com.cn/plugin/getOrderStatus"):
-            flow.response.set_text('{"result":0,"lotteryCode":0,"success":true,"message":"处理中。。。"}')
-            ctx.log.info("replace ")
-
+        # index
+        if flow.request.url.startswith("https://activity.m.duibatest.com.cn/hdtool/index?id=20895&11111"):
+            flow.response = http.HTTPResponse.make(404)
+            ctx.log.info("index 返回404")
 
         # getShareCode
         if flow.request.url.startswith("https://activity.m.duibatest.com.cn/customActivity/iqiyiYear/getShareCode11"):
@@ -145,17 +114,6 @@ class Modify:
             flow.response.set_text(json.dumps(response))
             ctx.log.info('modify limitCount')
 
-        if flow.request.url.startswith("http://activity.m.duiba.com.cn/sign/custom/getProfitDetail?actId=240"):
-            response = json.loads(flow.response.get_text())
-            response["data"][0]["changeMoney"] = 0.06
-            flow.response.set_text(json.dumps(response))
-
-        if flow.request.url.startswith("https://activity.m.duiba.com.cn/hdtool/ctoken/getTokenNew"):
-            req = flow.request.headers["Cookie"]
-            # req = req + "; _duibaServiceGroupKey=miria-40"
-            req = ""
-            ctx.log.info(req)
-            flow.request.headers["Cookie"] = req
 
 
 addons = [
