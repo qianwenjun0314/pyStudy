@@ -33,6 +33,17 @@ class Modify:
 
             for i in response['data']:
                 print(self.answer[i['name']])
+        if flow.request.url.startswith('https://activity.m.duiba.com.cn/hdtool/ngame/getStartStatus'):
+            response = json.loads(flow.response.get_text())
+            response['result'] = 2
+            flow.response.set_text(json.dumps(response))
+
+        if flow.request.url.startswith('https://activity.m.duiba.com.cn/hdtool/watsons/recon/checkOutAnswer?orderId='):
+            response = json.loads(flow.response.get_text())
+            response['success'] = False
+            response['code'] = '99999999'
+            response['desc'] = '网络异常'
+            flow.response.set_text(json.dumps(response))
 
 
 

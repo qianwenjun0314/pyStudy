@@ -2,40 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1163350-50d0-428a-8f55-9a4fdb6c860a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/__test__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/demo/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/demo/Pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/demo/jsonTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/demo/method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/demo/reTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/demo/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/myMitmproxy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/myMitmproxy/findAnswer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/myMitmproxy/yh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mypypro/utils/readCsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/quest-1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/testJson.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/testJson2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/qianwenjun.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/qianwenjun.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypypro/100eg/test30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypypro/myMitmproxy/modify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypypro/myMitmproxy/yaduo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypypro/mitmproxy/addCookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/mypypro/myMitmproxy/addCookie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypypro/mitmproxy/addons.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypypro/mitmproxy/aiqiy.py" beforeDir="false" afterPath="$PROJECT_DIR$/mypypro/myMitmproxy/aiqiy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypypro/mitmproxy/err.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypypro/mitmproxy/mdLink.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypypro/mitmproxy/yh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypypro/myMitmproxy/findAnswer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mypypro/myMitmproxy/findAnswer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/addCookie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="45" column="38" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="38" />
+            <state relative-caret-position="465">
+              <caret line="32" column="22" selection-start-line="32" selection-end-line="33" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -58,22 +33,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mypypro/demo/IOTest.py">
+        <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/modify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/findAnswer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="563">
+              <caret line="63" selection-start-line="63" selection-end-line="65" selection-end-column="1" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -81,23 +44,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mypypro/utils/readCsv.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mypypro/100eg/test30.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/quest-1.csv">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/yaduo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="11" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,14 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resource/text.txt" />
-        <option value="$PROJECT_DIR$/mypypro/demo/count_perc" />
-        <option value="$PROJECT_DIR$/mypypro/demo/count_perc.py" />
-        <option value="$PROJECT_DIR$/mypypro/demo/genUid.py" />
-        <option value="$PROJECT_DIR$/mypypro/demo/test.py" />
-        <option value="$PROJECT_DIR$/mypypro/linuxService/serverinit.py" />
-        <option value="$PROJECT_DIR$/mypypro/demo/DataTest.py" />
-        <option value="$PROJECT_DIR$/mypypro/demo/demo01.py" />
         <option value="$PROJECT_DIR$/mypypro/demo/GenShape.py" />
         <option value="$PROJECT_DIR$/mypypro/demo/StringTest.py" />
         <option value="$PROJECT_DIR$/mypypro/demo/TimeTest.py" />
@@ -171,8 +126,16 @@
         <option value="$PROJECT_DIR$/mypypro/mitmproxy/GetQuestion.py" />
         <option value="$PROJECT_DIR$/mypypro/mitmproxy/findAnswer.py" />
         <option value="$PROJECT_DIR$/mypypro/myMitmproxy/testGetQ.py" />
-        <option value="$PROJECT_DIR$/mypypro/myMitmproxy/findAnswer.py" />
         <option value="$PROJECT_DIR$/mypypro/utils/readCsv.py" />
+        <option value="$PROJECT_DIR$/mypypro/myMitmproxy/findAnswer.py" />
+        <option value="$PROJECT_DIR$/mypypro/myMitmproxy/modifySignConfig.py" />
+        <option value="$PROJECT_DIR$/mypypro/100eg/test17.py" />
+        <option value="$PROJECT_DIR$/mypypro/myMitmproxy/modify.py" />
+        <option value="$PROJECT_DIR$/mypypro/100eg/test18.py" />
+        <option value="$PROJECT_DIR$/mypypro/100eg/test25.py" />
+        <option value="$PROJECT_DIR$/mypypro/100eg/test27.py" />
+        <option value="$PROJECT_DIR$/mypypro/100eg/test30.py" />
+        <option value="$PROJECT_DIR$/mypypro/myMitmproxy/yaduo.py" />
       </list>
     </option>
   </component>
@@ -187,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,12 +168,6 @@
               <item name="pythonStudy" type="462c0819:PsiDirectoryNode" />
               <item name="mypypro" type="462c0819:PsiDirectoryNode" />
               <item name="myMitmproxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="mypypro" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -237,7 +195,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,8 +223,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.getQuestion">
-    <configuration name="__test__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test30">
+    <configuration name="test17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,7 +236,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/100eg/__test__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/100eg/test17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,49 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="findAnswer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mypypro/mitmproxy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/mitmproxy/findAnswer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="getQuestion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mypypro/mitmproxy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/mitmproxy/GetQuestion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,7 +257,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/100eg/test15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/100eg/test18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test25" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,7 +278,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/100eg/test16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/100eg/test26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test27" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mypypro/100eg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/100eg/test27.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test30" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mypypro/100eg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypypro/100eg/test30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,11 +331,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.getQuestion" />
-        <item itemvalue="Python.findAnswer" />
-        <item itemvalue="Python.test16" />
-        <item itemvalue="Python.__test__" />
-        <item itemvalue="Python.test15" />
+        <item itemvalue="Python.test30" />
+        <item itemvalue="Python.test27" />
+        <item itemvalue="Python.test25" />
+        <item itemvalue="Python.test18" />
+        <item itemvalue="Python.test17" />
       </list>
     </recent_temporary>
   </component>
@@ -406,8 +363,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23828435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16521049" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -418,7 +376,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3219178" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29726028" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29726028" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -498,41 +456,15 @@
           <line>16</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mypypro/100eg/test18.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mypypro/demo/uid.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6959" />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/demo/StringTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mitmproxy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mitmproxy/ctx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/qwj1.txt" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1199943127/posix.py" />
     <entry file="file://$PROJECT_DIR$/resource/text.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -556,16 +488,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/mitmproxy/mdLink.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/mitmproxy/mdLink.py" />
     <entry file="file://$PROJECT_DIR$/mypypro/demo/TimeTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -587,36 +510,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/mitmproxy/err.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/mitmproxy/addons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/aiqiy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="50" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/mitmproxy/err.py" />
+    <entry file="file://$PROJECT_DIR$/mypypro/mitmproxy/addons.py" />
     <entry file="file://$PROJECT_DIR$/mypypro/demo/DataTypeTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -649,16 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/yh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,23 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mypypro/linuxService/serverinit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -769,40 +637,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/addCookie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="45" column="38" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/quest-1.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/demo/jsonTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -819,39 +657,146 @@
     <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/GetQuestion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="44" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="44" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/findAnswer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/testGetQ.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="2" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/GetQuestion.py" />
+    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/testGetQ.py" />
     <entry file="file://$PROJECT_DIR$/mypypro/utils/readCsv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/yh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/aiqiy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="50" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/findAnswer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="50" selection-start-line="50" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/demo/jsonTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test27.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/addCookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="22" selection-start-line="32" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/100eg/test30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/modify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="63" selection-start-line="63" selection-end-line="65" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypypro/myMitmproxy/yaduo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
